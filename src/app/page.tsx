@@ -6,7 +6,6 @@ function Homepage() {
   return <div>
     <Scaffolding/>
     <Message/>
-    <hr/>
   </div>
 }
 
