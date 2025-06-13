@@ -23,7 +23,7 @@ function Message() {
         </div>
       </div>
 
-      <div className="mt-1 hover:bg-gray-800/30 px-4 py-1">
+      <div className="rounded-lg mt-1 hover:bg-gray-800/30 px-4 py-1">
         <p className="pl-14 text-gray-300 ">
           Instead of aligning items by their top, center, or bottom, it aligns
           them so that the text baselines line up.
