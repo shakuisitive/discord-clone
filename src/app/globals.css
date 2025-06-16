@@ -59,8 +59,9 @@
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 
-  --color-gray-50: red;
-  --color-gray-100: #DCDDBE;
+  --color-brand: #5865F2;
+
+  --color-gray-100: #DCDDDE;
   --color-gray-200: #B9BBBE;
   --color-gray-300: #8E9297;
   --color-gray-400: #72767D;
